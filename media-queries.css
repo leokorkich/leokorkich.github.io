@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1519px){
+/* стили для десктопов*/
+}
+
+
+
+}
+
+@media only screen and (min-width: 1224px){
+/* стили для ноутбуков*/
+
+
+
+}
+
+@media only screen and (max-width: 479px) {
+  .wrapper{
+    width: 375px;
+  }
+  .header-container{
+    width: 100%;
+    height: 300px;
+  }
+}
